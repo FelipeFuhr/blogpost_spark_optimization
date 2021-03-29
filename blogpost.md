@@ -8,7 +8,7 @@ Nowadays, many applications have to be scalable to a very big
 // 1b - parte sobre Spark
 Apache Spark is a very popular open-source framework for large scale data processing
 (also known as big data).
-It can be used alongside Java, Python, or Scala.
+Its API can be used by Java, Python, or Scala applications.
 In this case study, the optimized application was developed in Scala.
 
 // 2 - parte sobre a importancia e possibilidade de otimizacoes:
